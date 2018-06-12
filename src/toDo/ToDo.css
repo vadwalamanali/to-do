@@ -1,0 +1,15 @@
+.ToDo input {
+  display: block;
+  margin-left: 600px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: none;
+  border: 1px solid #333333; }
+
+.ToDo button {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: none;
+  border: 1px solid #333; }
